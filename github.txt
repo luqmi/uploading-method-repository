@@ -1,0 +1,23 @@
+installation of github
+
+
+                               create repository github
+1) login github
+2) go to repository  (if you make new repository in github = click to new button)
+3) Given the name of repository
+4) its optional (if you given any description)
+5) its depend on you (you publi your repository or private)
+6) then click         ( create a repository) button 
+
+
+
+
+
+
+
+                               Github commands
+1) git init (when we create new reposite on github)
+2) git remote (copy from github for connection|| this long command)
+3) git add . (git file is download in your folder)
+4) git commit (we comment on our repository )
+5) git push origin master (your all file upload on the github)
